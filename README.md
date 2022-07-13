@@ -1,1 +1,1 @@
-# CPSC599_Project1_DancingPuppets
+# Dancing_Puppets
